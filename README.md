@@ -1,5 +1,5 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture></p>
-<h1 align="center">Hi, I'm Sandaru Nihara<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+<h1 align="center">Hi, I'm<a href="https://github.com/Kathryn-Jie">Sandaru NIhara<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
