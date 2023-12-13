@@ -1,5 +1,5 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture></p>
-<h1 align="center">Hi, I'm<a href="https://github.com/sandarunihara">Sandaru NIhara<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+<h1 align="center">Hi, I'm<a href="https://github.com/sandarunihara">Sandaru Nihara<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandarunihara&label=Profile%20views&color=0e75b6&style=flat" alt="sandarunihara" /> </p>
 <p aling="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always+learning+new+things&center=true&width=500&height=50"></a></p>
 
