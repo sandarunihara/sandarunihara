@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandarunihara&label=Profile%20views&color=0e75b6&style=flat" alt="sandarunihara" /> </p>
 
-- 🌱 I’m currently learning **c,c++,python**
+- 🌱 I’m currently learning
+<code><img height="20" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+<code><img height="20" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg"></code>
+<code><img height="20" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Dart-Dark.svg"></code>
 
 - 💬 Ask me about **anything**
 
