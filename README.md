@@ -98,7 +98,10 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Unity-Light.svg" alt="unity" width="50" height="50"/> </a> </p>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Unity-Light.svg" alt="unity" width="50" height="50"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://i.redd.it/szswuem4y3381.png" alt="unity" width="50" height="50"/> </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Premiere.svg" alt="unity" width="50" height="50"/> </a>
+  </p>
 
 
 ---
