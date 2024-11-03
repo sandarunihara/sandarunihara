@@ -9,11 +9,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **java,javascript,scala**
+- 🌱 I’m currently learning **Computer Science**
 
 - 🧑‍🎓 I’m an Undergraduate at **UCSC**
 
-- 💬 Ask me about **Java,javascript,scala**
+- 💬 Ask me about **Java,javascript,scala,php**
 
 - 📫 How to reach me **sandarunihara56@gmail.com**
 
