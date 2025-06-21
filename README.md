@@ -13,7 +13,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **UCSC**
 
-- 💬 Ask me about **Java,javascript,scala,php**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **sandarunihara56@gmail.com**
 
